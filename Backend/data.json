@@ -1,0 +1,82 @@
+[
+    {
+        "name": "John Smith",
+        "ORCID": "1",
+        "scopus_id": "1",
+        "age": 30,
+        "gender": "male",
+        "country": "United States",
+        "skills": ["Python", "Docker"],
+        "points": {
+            "science": 1,
+            "industry": 1,
+            "health": 0.2,
+            "government": 0.3,
+            "social": 0.7
+        }
+    },
+    {
+        "name": "Jamanta Smith",
+        "ORCID": "2",
+        "scopus_id": "2",
+        "age": 28,
+        "gender": "female",
+        "country": "United States",
+        "skills": ["JavaScript", "Docker", "K8S", "NPM"],
+        "points": {
+            "science": 0.3,
+            "industry": 0.9,
+            "health": 0.5,
+            "government": 0.8,
+            "social": 0.9
+        }
+    },
+    {
+        "name": "Max Fox",
+        "age": 32,
+        "ORCID": "3",
+        "scopus_id": "3",
+        "gender": "male",
+        "country": "United Kingdom",
+        "skills": ["Docker", "K8S", "CI/CD", "Jenkins"],
+        "points": {
+            "science": 0,
+            "industry": 1,
+            "health": 0.1,
+            "government": 0.1,
+            "social": 0.2
+        }
+    },
+    {
+        "name": "Han Baul",
+        "ORCID": "4",
+        "scopus_id": "4",
+        "age": 17,
+        "gender": "male",
+        "country": "Korea",
+        "skills": ["Anatomy", "Genetics", "Proteins"],
+        "points": {
+            "science": 0.8,
+            "industry": 0.1,
+            "health": 0.8,
+            "government": 0.2,
+            "social": 0.8
+        }
+    },
+    {
+        "name": "Sergei Ivanov",
+        "ORCID": "5",
+        "scopus_id": "5",
+        "age": 46,
+        "gender": "male",
+        "country": "Russia",
+        "skills": ["Mathematics", "Genetics"],
+        "points": {
+            "science": 0.5,
+            "industry": 0.5,
+            "health": 0.5,
+            "government": 0.2,
+            "social": 1
+        }
+    }
+]
